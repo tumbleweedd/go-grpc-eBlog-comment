@@ -3,7 +3,7 @@ package repository
 import (
 	"fmt"
 	"github.com/jmoiron/sqlx"
-	"github.com/tumbleweedd/grpc-eBlog/grpc-eBlog-comment/pkg/model"
+	"github.com/tumbleweedd/grpc-eBlog/grpc-eBlog-comment/internal/model"
 )
 
 type CommentRepository struct {
